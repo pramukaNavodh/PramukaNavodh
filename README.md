@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pramuka Navodh</h1>
-<h3 align="center">Android Developer</h3>
+<h1 align="center">Hello World! 👋, I'm Pramuka</h1>
+<h3 align="center">Android Mobile Application Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramukanavodh&label=Profile%20views&color=0e75b6&style=flat" alt="pramukanavodh" /> </p>
 
