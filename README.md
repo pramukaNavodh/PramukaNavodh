@@ -29,187 +29,107 @@
 <table>
     <tr>
         <th>Categrory</th>
-        <th>--</th>
         <th>Technologies</th>
-        <th>--</th>
-    </tr>
-    <tr>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>|</td>
     </tr>
     <tr>
         <td>Mobile Application Development</td>
-        <td>|</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="html5" width="20" height="20"/> Java</td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="html5" width="20" height="20"/> Android SDK</td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="html5" width="20" height="20"/> AndroidX</td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://reactnative.dev/img/header_logo.svg" alt="html5" width="20" height="20"/> React Native</td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="html5" width="20" height="20"/> Room (Android Persistence) </td>
-        <td>|</td>
-    </tr>
-    <tr>
-        <td>---------------------------------------</td>
-        <td></td>
-        <td>---------------------------------------</td>
-        <td></td>
     </tr>
     <!--web-->
     <tr>
         <td>Web Application Development</td>
-        <td>|</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> HTML </td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html5" width="20" height="20"/> CSS </td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="html5" width="20" height="20"/> JavaScript </td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="html5" width="20" height="20"/> TypeScript </td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="html5" width="20" height="20"/> React </td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="html5" width="20" height="20"/> Next.js </td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="html5" width="20" height="20"/> Tailwind CSS </td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="html5" width="20" height="20"/> Node JS </td>
-        <td>|</td>
-    </tr>
-    <tr>
-        <td>---------------------------------------</td>
-        <td></td>
-        <td>---------------------------------------</td>
-        <td></td>
     </tr>
     <!--DB-->
     <tr>
         <td>DB implementation</td>
-        <td>|</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="html5" width="20" height="20"/> MYSQL </td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="html5" width="20" height="20"/> Postgre SQL </td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="html5" width="20" height="20"/> SQLite </td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="html5" width="20" height="20"/> Firebase </td>
-        <td>|</td>
-    </tr>
-    <tr>
-        <td>---------------------------------------</td>
-        <td></td>
-        <td>---------------------------------------</td>
-        <td></td>
     </tr>
     <!--DevOPS-->
     <tr>
         <td>DevOps & Infrastructure</td>
-        <td>|</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="html5" width="20" height="20"/> Linux (Ubuntu) </td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="" alt="html5" width="20" height="20"/> VPS Deployment</td>
-        <td>|</td>
-    </tr>
-    <tr>
-        <td>---------------------------------------</td>
-        <td></td>
-        <td>---------------------------------------</td>
-        <td></td>
     </tr>
     <!--Other-->
     <tr>
         <td>Other Tech and Tools
-        <td>|</td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="html5" width="20" height="20"/> Python </td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://iconduck.com/icons/991/json" alt="html5" width="20" height="20"/> JSON</td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://svgmix.com/item/4roxmA/json" alt="html5" width="20" height="20"/> REST</td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://iconduck.com/icons/27430/google-cloud" alt="html5" width="20" height="20"/> Google cloud</td>
-        <td>|</td>
     </tr>
     <tr>
         <td></td>
-        <td>|</td>
         <td><img src="https://raw.githubusercontent.com/mqtt/mqttorg-graphics/master/svg/mqtt-horizontal.svg" alt="html5" width="20" height="20"/> MQTT</td>
-        <td>|</td>
     </tr>
 </table>
 <br>
