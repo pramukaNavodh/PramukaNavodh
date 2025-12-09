@@ -12,16 +12,16 @@
 <!--description-->
 <h3 align="left">Description</h3>
 <p align="left">
-   ⌃ I develop mobile applications (Specialized in Native Android app. development).;
+   ⌃ I develop mobile applications (Specialized in Native Android app. development).
 </p>
 <p align="left">
    ⌃ Currently upgrading my knowledge parameters in cross platform developments.;
 </p>
 <p align="left">
-   ⌃ Currently extremely forcused at my special project "Find My Bus" mobile application.;
+   ⌃ Currently extremely focused on my special project, "Find My Bus" mobile application.;
 </p>
 <p align="left">
-   ⌃ Also, I am good with web front-end development, database implementation/ management and server implementation;
+   ⌃ Also, I am good with web front-end development, database implementation/ management and server implementation.
 </p>
 <br>
 <!--Skills-->
@@ -33,23 +33,23 @@
     </tr>
     <tr>
         <td>Mobile Application Development</td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="html5" width="20" height="20"/> Java</td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/> Java</td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="html5" width="20" height="20"/> Android SDK</td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android SDK" width="20" height="20"/> Android SDK</td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="html5" width="20" height="20"/> AndroidX</td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="AndroidX" width="20" height="20"/> AndroidX</td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://reactnative.dev/img/header_logo.svg" alt="html5" width="20" height="20"/> React Native</td>
+        <td><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="20" height="20"/> React Native</td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="html5" width="20" height="20"/> Room (Android Persistence) </td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Room" width="20" height="20"/> Room (Android Persistence) </td>
     </tr>
     <!--web-->
     <tr>
@@ -58,53 +58,53 @@
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html5" width="20" height="20"/> CSS </td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="20" height="20"/> CSS </td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="html5" width="20" height="20"/> JavaScript </td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript </td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="html5" width="20" height="20"/> TypeScript </td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"/> TypeScript </td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="html5" width="20" height="20"/> React </td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="20" height="20"/> React </td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="html5" width="20" height="20"/> Next.js </td>
+        <td><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="20" height="20"/> Next.js </td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="html5" width="20" height="20"/> Tailwind CSS </td>
+        <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="20" height="20"/> Tailwind CSS </td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="html5" width="20" height="20"/> Node JS </td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node JS" width="20" height="20"/> Node JS </td>
     </tr>
     <!--DB-->
     <tr>
         <td>DB implementation</td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="html5" width="20" height="20"/> MYSQL </td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL" width="20" height="20"/> MYSQL </td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="html5" width="20" height="20"/> Postgre SQL </td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgre SQL" width="20" height="20"/> Postgre SQL </td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="html5" width="20" height="20"/> SQLite </td>
+        <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="20" height="20"/> SQLite </td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="html5" width="20" height="20"/> Firebase </td>
+        <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="20" height="20"/> Firebase </td>
     </tr>
     <!--DevOPS-->
     <tr>
         <td>DevOps & Infrastructure</td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="html5" width="20" height="20"/> Linux (Ubuntu) </td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="20" height="20"/> Linux (Ubuntu) </td>
     </tr>
     <tr>
         <td></td>
@@ -113,23 +113,23 @@
     <!--Other-->
     <tr>
         <td>Other Tech and Tools
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="html5" width="20" height="20"/> Python </td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="Python" width="20" height="20"/> Python </td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://iconduck.com/icons/991/json" alt="html5" width="20" height="20"/> JSON</td>
+        <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/json.svg" alt="JSON" width="20" height="20"/> JSON</td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://svgmix.com/item/4roxmA/json" alt="html5" width="20" height="20"/> REST</td>
+        <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/swagger.svg" alt="REST" width="20" height="20"/> REST</td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://iconduck.com/icons/27430/google-cloud" alt="html5" width="20" height="20"/> Google cloud</td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google cloud" width="20" height="20"/> Google cloud</td>
     </tr>
     <tr>
         <td></td>
-        <td><img src="https://raw.githubusercontent.com/mqtt/mqttorg-graphics/master/svg/mqtt-horizontal.svg" alt="html5" width="20" height="20"/> MQTT</td>
+        <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mqtt.svg" alt="MQTT" width="20" height="20"/> MQTT</td>
     </tr>
 </table>
 <br>
